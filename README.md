@@ -43,19 +43,18 @@ Currently pursuing my Master's at **Technical University of Munich (TUM)**, I co
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadzahidi&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzahidi&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syed-saad-zahidi&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-saad-zahidi&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadzahidi&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadzahidi&theme=radical" alt="GitHub streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadzahidi&theme=radical" alt="Summary card" />
+  <img src="https://komarev.com/ghpvc/?username=syed-saad-zahidi&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-saad-zahidi&theme=radical" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syed-saad-zahidi&theme=radical" alt="Summary card" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Portfolio](https://your-portfolio.com) <!-- optional -->
+- [LinkedIn](https://www.linkedin.com/in/syedsaadzahidi) 
