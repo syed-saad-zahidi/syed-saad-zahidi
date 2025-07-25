@@ -2,7 +2,8 @@
 
 I'm a Full-Stack Developer and aspiring Generative AI Engineer with a strong foundation in building scalable, cloud-native applications. I specialize in TypeScript, React, Node.js, and Flask, with hands-on experience designing secure and real-time systems using containerized infrastructure and modern authentication protocols.
 
-Currently pursuing my Master's at **Technical University of Munich (TUM)**, I combine academic research with practical development to solve real-world problems in distributed systems, IoT, and applied AI.
+Currently pursuing my Master's in **Media Engineering** at **TU Ilmenau**, I'm also contributing to a research collaboration with the **Technical University of Munich (TUM)**. My work bridges academic research and practical software development, focusing on distributed systems, IoT infrastructure, and applied AI solutions.
+
 
 ---
 
