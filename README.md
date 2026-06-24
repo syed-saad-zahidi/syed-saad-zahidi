@@ -153,7 +153,7 @@ const saad = {
 
 ### 💬 Open to full-time Software Engineering roles in Germany
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/saad-zahidi](https://www.linkedin.com/in/syedsaadzahidi/))
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/saad-zahidi)
 [![Email](https://img.shields.io/badge/Send%20me%20an%20email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedsaadzahidi@gmail.com)
 
 </div>
