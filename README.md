@@ -113,15 +113,14 @@ const saad = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-saad-zahidi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=syed-saad-zahidi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syed-saad-zahidi&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syed-saad-zahidi&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syed-saad-zahidi&theme=tokyonight&utcOffset=1" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syed-saad-zahidi&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syed-saad-zahidi&theme=tokyonight" width="49%" />
 
 </div>
 
@@ -137,7 +136,7 @@ const saad = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=syed-saad-zahidi&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=syed-saad-zahidi&theme=tokyonight&no-frame=true&column=6&margin-w=4" width="98%" />
 
 </div>
 
@@ -147,7 +146,7 @@ const saad = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syed-saad-zahidi&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+<img src="https://github-activity-graph.vercel.app/graph?username=syed-saad-zahidi&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
 </div>
 
