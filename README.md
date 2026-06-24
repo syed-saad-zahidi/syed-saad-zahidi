@@ -132,16 +132,6 @@ const saad = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=syed-saad-zahidi&theme=tokyonight&no-frame=true&column=6&margin-w=4" width="98%" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
