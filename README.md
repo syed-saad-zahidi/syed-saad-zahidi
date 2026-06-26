@@ -3,7 +3,7 @@
 # Hi, I'm Saad 👋
 ### Full-Stack Software Engineer · 4+ Years Experience · Based in Germany 🇩🇪
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saad--zahidi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-zahidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-syedsaadzahidi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedsaadzahidi)
 [![Email](https://img.shields.io/badge/Email-syedsaadzahidi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedsaadzahidi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-syed--saad--zahidi-181717?style=flat&logo=github&logoColor=white)](https://github.com/syed-saad-zahidi)
 ![Profile Views](https://komarev.com/ghpvc/?username=syed-saad-zahidi&color=blueviolet&style=flat)
